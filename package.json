@@ -92,7 +92,7 @@
     "humps": "^1.1.0",
     "isomorphic-fetch": "^2.2.1",
     "json-loader": "^0.5.4",
-    "knex": "^0.13.0",
+    "knex": "^0.20.1",
     "lodash": "^4.13.1",
     "material-ui": "^0.15.2",
     "minilog": "^3.0.1",
